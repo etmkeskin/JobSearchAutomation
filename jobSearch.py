@@ -13,7 +13,7 @@ firefox_path = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
 url = "https://www.workopolis.com/en/"
 
 # Set the path to the Excel file where you want to save the job data
-excel_file_path = "C:\\Users\\etmke\\Downloads\\jobSearch.xlsx"
+excel_file_path = "C:\\Users\\xxxx\\Downloads\\jobSearch.xlsx" 
 
 # Set the desired job search parameters
 location = "Toronto"
