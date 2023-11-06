@@ -1,4 +1,4 @@
-# JobSearchAutomation
+# Job Search Automation
 
 * The project involves the design and implementation of a web automation system using Python and Selenium. This system efficiently extracts key details from job postings, including job titles, company names, job descriptions, and salary information.
 * By automating the job search process, project significantly reduced the time spent on manually browsing job listings.
